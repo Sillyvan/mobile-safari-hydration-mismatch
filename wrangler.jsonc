@@ -1,12 +1,12 @@
 {
-  "name": "<TBD>",
+  "name": "mobile-safari-hydration-mismatch",
   "main": ".svelte-kit/cloudflare/_worker.js",
-  "compatibility_date": "<TBD>",
+  "compatibility_date": "2025-02-26",
   "assets": {
     "binding": "ASSETS",
     "directory": ".svelte-kit/cloudflare"
   },
   "observability": {
-    "enabled": true
+    "enabled": false
   }
 }
