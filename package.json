@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@sveltejs/adapter-cloudflare": "^5.0.3",
-    "lucide-svelte": "^0.476.0"
+    "lucide-svelte": "^0.476.0",
+    "wrangler": "^3.110.0"
   }
 }

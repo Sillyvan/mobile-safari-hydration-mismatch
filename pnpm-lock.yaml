@@ -14,6 +14,9 @@ importers:
       lucide-svelte:
         specifier: ^0.476.0
         version: 0.476.0(svelte@5.20.4)
+      wrangler:
+        specifier: ^3.110.0
+        version: 3.110.0(@cloudflare/workers-types@4.20250224.0)
     devDependencies:
       '@sveltejs/adapter-auto':
         specifier: ^4.0.0
